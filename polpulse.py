@@ -1,8 +1,7 @@
 #!/usr/bin/python
-#This is the main program to calculate polarized pulse profiles (to be run with driver.py or to be called by the sampling method in newmc.py).
-#Set SavePulse=True if want to save the output in a file
-#This version uses simplThomson atmosphere model as in Salmi+ 2021, and reads the precomputed models from (a) file(s).
-#This code is based on cs_ts2_func.py found in https://github.com/thjsal/CompSlab 
+#This is the main program to calculate polarized pulse profiles.
+#This version uses a Compton Slab atmosphere model (even though named as "simplThomson").
+#The code is based on cs_ts2_func.py found in https://github.com/thjsal/CompSlab 
 #and on cs.py found in https://github.com/belliavesha/CompSlab (developed by Vladislav Loktev).
 #Small differences in implemenation and computation accuracy may exist between the different versions of the code.
 
