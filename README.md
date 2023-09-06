@@ -7,4 +7,4 @@ python driver_for_interpolations.py
 
 These tables can be used when modeling the polarized X-ray pulses from AMPs (an example of that is shown in `polpulse.py`).
 
-For further information and advice, we ask you to contact and refer to the authors of [Bobrikova et al. 2023, in prep.].
+For further information and advice, we ask you to contact and refer to the authors of [Bobrikova et al. 2023](https://arxiv.org/abs/2309.02329).
